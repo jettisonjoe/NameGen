@@ -1,5 +1,5 @@
 # NameGen - A set of utities for randomly generating various types
-# of names. Started as a tool for generating project names.
+# of names. Started as a tool for generating abstract project names.
 
 import random
 
